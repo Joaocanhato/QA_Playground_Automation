@@ -1,0 +1,21 @@
+{
+  "name": "qa_playground_automation",
+  "version": "1.0.0",
+  "description": "This is my repo to train playwright automation :)",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joaocanhato/QA_Playground_Automation.git"
+  },
+  "keywords": [],
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Joaocanhato/QA_Playground_Automation/issues"
+  },
+  "homepage": "https://github.com/Joaocanhato/QA_Playground_Automation#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.2"
+  }
+}
